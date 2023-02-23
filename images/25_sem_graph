@@ -2,9 +2,9 @@ digraph G {
 	overlap=scale splines=true
 	edge [fontsize=12]
 	node [fillcolor="#cae6df" shape=circle style=filled]
+	ind60 [label=ind60]
 	dem60 [label=dem60]
 	dem65 [label=dem65]
-	ind60 [label=ind60]
 	node [shape=box style=""]
 	x1 [label=x1]
 	x2 [label=x2]
